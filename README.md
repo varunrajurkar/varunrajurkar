@@ -24,8 +24,14 @@ More in the [case studies](https://varunrajurkar.in/case-studies) and the [portf
 
 ### Open source
 
+- **[claude-geo-skills](https://github.com/varunrajurkar/claude-geo-skills)**: GEO skills for Claude. Check AI crawler access, draft an llms.txt from your sitemap, and audit any page for AI-answer citations. Install in Claude Code with `/plugin marketplace add varunrajurkar/claude-geo-skills`.
 - **[ai-crawler-check](https://github.com/varunrajurkar/ai-crawler-check)**: can ChatGPT, Claude and Perplexity actually reach your site? Catches the CDN/firewall blocks that robots.txt can't fix.
-- *Coming next:* `llms-txt-generator` (build an llms.txt from your sitemap), `shopify-seo-snippets`.
+- **[14 free SEO & web tools](https://varunrajurkar.in/tools)**: AI crawler check, llms.txt and robots.txt generators, schema markup, SERP preview, redirect checker and more, in the browser.
+- *Coming next:* `shopify-seo-snippets` (Product, FAQ and Breadcrumb schema for Liquid themes).
+
+### Latest writing
+
+- [Website Development Cost in Dubai: 2026 Pricing Guide With Real Project Ranges](https://varunrajurkar.in/blog/website-development-cost-dubai)
 
 ### Stack
 
